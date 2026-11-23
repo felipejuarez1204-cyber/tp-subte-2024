@@ -1,0 +1,1078 @@
+LINEA,ESTACION,mes,registros,nulos
+LineaA,Acoyte,1,16067,0
+LineaA,Acoyte,2,14554,0
+LineaA,Acoyte,3,16299,0
+LineaA,Acoyte,4,16173,0
+LineaA,Acoyte,5,16392,0
+LineaA,Acoyte,6,15672,0
+LineaA,Acoyte,7,16194,0
+LineaA,Acoyte,8,16892,0
+LineaA,Acoyte,9,15362,0
+LineaA,Acoyte,10,14705,0
+LineaA,Acoyte,11,14004,0
+LineaA,Acoyte,12,14223,1975
+LineaA,Alberti,1,6177,0
+LineaA,Alberti,2,5848,0
+LineaA,Alberti,3,6122,0
+LineaA,Alberti,4,6176,0
+LineaA,Alberti,5,6079,0
+LineaA,Alberti,6,5921,0
+LineaA,Alberti,7,5964,0
+LineaA,Alberti,8,6075,0
+LineaA,Alberti,9,5220,0
+LineaA,Alberti,10,5190,0
+LineaA,Alberti,11,4547,0
+LineaA,Alberti,12,5608,1719
+LineaA,Carabobo,1,14437,0
+LineaA,Carabobo,2,14505,0
+LineaA,Carabobo,3,15796,0
+LineaA,Carabobo,4,15700,0
+LineaA,Carabobo,5,15470,0
+LineaA,Carabobo,6,14632,0
+LineaA,Carabobo,7,15597,0
+LineaA,Carabobo,8,15515,0
+LineaA,Carabobo,9,13646,0
+LineaA,Carabobo,10,14048,0
+LineaA,Carabobo,11,12885,0
+LineaA,Carabobo,12,13972,1887
+LineaA,Castro Barros,1,10639,0
+LineaA,Castro Barros,2,10206,0
+LineaA,Castro Barros,3,11197,0
+LineaA,Castro Barros,4,10550,0
+LineaA,Castro Barros,5,10274,0
+LineaA,Castro Barros,6,10272,0
+LineaA,Castro Barros,7,10765,0
+LineaA,Castro Barros,8,10987,0
+LineaA,Castro Barros,9,8653,0
+LineaA,Castro Barros,10,9017,0
+LineaA,Castro Barros,11,8423,0
+LineaA,Castro Barros,12,8664,1990
+LineaA,Congreso,1,12374,0
+LineaA,Congreso,2,11551,0
+LineaA,Congreso,3,12760,0
+LineaA,Congreso,4,11975,0
+LineaA,Congreso,5,12470,0
+LineaA,Congreso,6,11953,0
+LineaA,Congreso,7,12405,0
+LineaA,Congreso,8,13165,0
+LineaA,Congreso,9,9750,0
+LineaA,Congreso,10,8667,0
+LineaA,Congreso,11,8434,0
+LineaA,Congreso,12,10297,1986
+LineaA,Flores,1,13952,0
+LineaA,Flores,2,13064,0
+LineaA,Flores,3,13827,0
+LineaA,Flores,4,13256,0
+LineaA,Flores,5,13193,0
+LineaA,Flores,6,12993,0
+LineaA,Flores,7,12601,0
+LineaA,Flores,8,13763,0
+LineaA,Flores,9,12173,0
+LineaA,Flores,10,11719,0
+LineaA,Flores,11,11490,0
+LineaA,Flores,12,11172,1977
+LineaA,Lima,1,10058,0
+LineaA,Lima,2,9425,0
+LineaA,Lima,3,10116,0
+LineaA,Lima,4,10137,0
+LineaA,Lima,5,9919,0
+LineaA,Lima,6,9754,0
+LineaA,Lima,7,9860,0
+LineaA,Lima,8,10207,0
+LineaA,Lima,9,9327,0
+LineaA,Lima,10,8731,0
+LineaA,Lima,11,8410,0
+LineaA,Lima,12,8237,1783
+LineaA,Loria,1,10566,0
+LineaA,Loria,2,9758,0
+LineaA,Loria,3,10747,0
+LineaA,Loria,4,10296,0
+LineaA,Loria,5,10240,0
+LineaA,Loria,6,9988,0
+LineaA,Loria,7,10371,0
+LineaA,Loria,8,10788,0
+LineaA,Loria,9,8679,0
+LineaA,Loria,10,7780,0
+LineaA,Loria,11,7299,0
+LineaA,Loria,12,8321,1947
+LineaA,Pasco,1,5783,0
+LineaA,Pasco,2,5461,0
+LineaA,Pasco,3,5870,0
+LineaA,Pasco,4,5840,0
+LineaA,Pasco,5,5845,0
+LineaA,Pasco,6,5480,0
+LineaA,Pasco,7,5720,0
+LineaA,Pasco,8,5882,0
+LineaA,Pasco,9,4416,0
+LineaA,Pasco,10,3761,0
+LineaA,Pasco,11,3755,0
+LineaA,Pasco,12,5341,1522
+LineaA,Peru,1,14145,0
+LineaA,Peru,2,12663,0
+LineaA,Peru,3,12989,0
+LineaA,Peru,4,12850,0
+LineaA,Peru,5,12719,0
+LineaA,Peru,6,12445,0
+LineaA,Peru,7,12706,0
+LineaA,Peru,8,13351,0
+LineaA,Peru,9,10356,0
+LineaA,Peru,10,8337,0
+LineaA,Peru,11,10438,0
+LineaA,Peru,12,11583,1857
+LineaA,Piedras,1,8077,0
+LineaA,Piedras,2,7341,0
+LineaA,Piedras,3,8016,0
+LineaA,Piedras,4,8200,0
+LineaA,Piedras,5,8115,0
+LineaA,Piedras,6,7203,0
+LineaA,Piedras,7,7885,0
+LineaA,Piedras,8,8377,0
+LineaA,Piedras,9,7232,0
+LineaA,Piedras,10,6462,0
+LineaA,Piedras,11,6275,0
+LineaA,Piedras,12,6718,1635
+LineaA,Plaza Miserere,1,19418,0
+LineaA,Plaza Miserere,2,18782,0
+LineaA,Plaza Miserere,3,19679,0
+LineaA,Plaza Miserere,4,19515,0
+LineaA,Plaza Miserere,5,20250,0
+LineaA,Plaza Miserere,6,18172,0
+LineaA,Plaza Miserere,7,19994,0
+LineaA,Plaza Miserere,8,21607,0
+LineaA,Plaza Miserere,9,21094,0
+LineaA,Plaza Miserere,10,21587,0
+LineaA,Plaza Miserere,11,20847,0
+LineaA,Plaza Miserere,12,19596,1917
+LineaA,Plaza de Mayo,1,13697,0
+LineaA,Plaza de Mayo,2,14087,0
+LineaA,Plaza de Mayo,3,15428,0
+LineaA,Plaza de Mayo,4,15632,0
+LineaA,Plaza de Mayo,5,15527,0
+LineaA,Plaza de Mayo,6,14968,0
+LineaA,Plaza de Mayo,7,15747,0
+LineaA,Plaza de Mayo,8,15784,0
+LineaA,Plaza de Mayo,9,13255,0
+LineaA,Plaza de Mayo,10,12657,0
+LineaA,Plaza de Mayo,11,11949,0
+LineaA,Plaza de Mayo,12,12900,1859
+LineaA,Primera Junta,1,14819,0
+LineaA,Primera Junta,2,13888,0
+LineaA,Primera Junta,3,15033,0
+LineaA,Primera Junta,4,14997,0
+LineaA,Primera Junta,5,14931,0
+LineaA,Primera Junta,6,14471,0
+LineaA,Primera Junta,7,14507,0
+LineaA,Primera Junta,8,15765,0
+LineaA,Primera Junta,9,14573,0
+LineaA,Primera Junta,10,14505,0
+LineaA,Primera Junta,11,13863,0
+LineaA,Primera Junta,12,13507,1966
+LineaA,Puan,1,8036,0
+LineaA,Puan,2,7545,0
+LineaA,Puan,3,8251,0
+LineaA,Puan,4,7898,0
+LineaA,Puan,5,7913,0
+LineaA,Puan,6,7687,0
+LineaA,Puan,7,7727,0
+LineaA,Puan,8,8146,0
+LineaA,Puan,9,6588,0
+LineaA,Puan,10,5847,0
+LineaA,Puan,11,5524,0
+LineaA,Puan,12,6914,1133
+LineaA,Rio de Janeiro,1,10329,0
+LineaA,Rio de Janeiro,2,9552,0
+LineaA,Rio de Janeiro,3,10470,0
+LineaA,Rio de Janeiro,4,10204,0
+LineaA,Rio de Janeiro,5,10124,0
+LineaA,Rio de Janeiro,6,9755,0
+LineaA,Rio de Janeiro,7,10098,0
+LineaA,Rio de Janeiro,8,10384,0
+LineaA,Rio de Janeiro,9,8576,0
+LineaA,Rio de Janeiro,10,8958,0
+LineaA,Rio de Janeiro,11,8117,0
+LineaA,Rio de Janeiro,12,8120,1969
+LineaA,Saenz PeÃÂ±a ,1,9920,0
+LineaA,Saenz PeÃÂ±a ,2,9216,0
+LineaA,Saenz PeÃÂ±a ,6,9549,0
+LineaA,Saenz PeÃÂ±a ,7,10092,0
+LineaA,Saenz PeÃÂ±a ,8,10182,0
+LineaA,Saenz PeÃÂ±a ,9,8720,0
+LineaA,Saenz PeÃÂ±a ,10,8243,0
+LineaA,Saenz PeÃÂ±a ,11,7707,0
+LineaA,Saenz PeÃÂ±a ,12,7920,1886
+LineaA,Saenz PeÃ±a ,3,10041,0
+LineaA,Saenz PeÃ±a ,4,10043,0
+LineaA,Saenz PeÃ±a ,5,9987,0
+LineaA,San Pedrito,1,21889,0
+LineaA,San Pedrito,2,20628,0
+LineaA,San Pedrito,3,22191,0
+LineaA,San Pedrito,4,21520,0
+LineaA,San Pedrito,5,21381,0
+LineaA,San Pedrito,6,20803,0
+LineaA,San Pedrito,7,20897,0
+LineaA,San Pedrito,8,22489,0
+LineaA,San Pedrito,9,20417,0
+LineaA,San Pedrito,10,18822,0
+LineaA,San Pedrito,11,19887,0
+LineaA,San Pedrito,12,20814,1890
+LineaB,Angel Gallardo,1,10852,0
+LineaB,Angel Gallardo,2,10393,0
+LineaB,Angel Gallardo,3,11308,0
+LineaB,Angel Gallardo,4,10964,0
+LineaB,Angel Gallardo,5,10467,0
+LineaB,Angel Gallardo,6,10510,0
+LineaB,Angel Gallardo,7,10400,0
+LineaB,Angel Gallardo,8,10470,0
+LineaB,Angel Gallardo,9,10727,0
+LineaB,Angel Gallardo,10,10407,0
+LineaB,Angel Gallardo,11,9336,0
+LineaB,Angel Gallardo,12,10322,2017
+LineaB,Callao.B,1,11796,0
+LineaB,Callao.B,2,11149,0
+LineaB,Callao.B,3,12085,0
+LineaB,Callao.B,4,11645,0
+LineaB,Callao.B,5,11117,0
+LineaB,Callao.B,6,11276,0
+LineaB,Callao.B,7,12158,0
+LineaB,Callao.B,8,12327,0
+LineaB,Callao.B,9,10287,0
+LineaB,Callao.B,10,7980,0
+LineaB,Callao.B,11,8896,0
+LineaB,Callao.B,12,9868,1940
+LineaB,Carlos Gardel,1,12639,0
+LineaB,Carlos Gardel,2,11754,0
+LineaB,Carlos Gardel,3,12680,0
+LineaB,Carlos Gardel,4,12245,0
+LineaB,Carlos Gardel,5,12171,0
+LineaB,Carlos Gardel,6,11923,0
+LineaB,Carlos Gardel,7,11968,0
+LineaB,Carlos Gardel,8,11948,0
+LineaB,Carlos Gardel,9,10487,0
+LineaB,Carlos Gardel,10,7770,0
+LineaB,Carlos Gardel,11,8053,0
+LineaB,Carlos Gardel,12,10181,1985
+LineaB,Carlos Pellegrini,1,13297,0
+LineaB,Carlos Pellegrini,2,12288,0
+LineaB,Carlos Pellegrini,3,13073,0
+LineaB,Carlos Pellegrini,4,12848,0
+LineaB,Carlos Pellegrini,5,12711,0
+LineaB,Carlos Pellegrini,6,13005,0
+LineaB,Carlos Pellegrini,7,12080,0
+LineaB,Carlos Pellegrini,8,11842,0
+LineaB,Carlos Pellegrini,9,14129,0
+LineaB,Carlos Pellegrini,10,13062,0
+LineaB,Carlos Pellegrini,11,11937,0
+LineaB,Carlos Pellegrini,12,13366,1972
+LineaB,Dorrego,1,15404,0
+LineaB,Dorrego,2,13112,0
+LineaB,Dorrego,3,14979,0
+LineaB,Dorrego,4,14978,0
+LineaB,Dorrego,5,15085,0
+LineaB,Dorrego,6,14399,0
+LineaB,Dorrego,7,14118,0
+LineaB,Dorrego,8,15752,0
+LineaB,Dorrego,9,15070,0
+LineaB,Dorrego,10,14052,0
+LineaB,Dorrego,11,13525,0
+LineaB,Dorrego,12,14151,2009
+LineaB,Echeverria,1,8173,0
+LineaB,Echeverria,2,7724,0
+LineaB,Echeverria,3,8245,0
+LineaB,Echeverria,4,8191,0
+LineaB,Echeverria,5,7914,0
+LineaB,Echeverria,6,6487,0
+LineaB,Echeverria,7,7436,0
+LineaB,Echeverria,8,7886,0
+LineaB,Echeverria,9,8331,0
+LineaB,Echeverria,10,8507,0
+LineaB,Echeverria,11,8288,0
+LineaB,Echeverria,12,9208,1864
+LineaB,Federico Lacroze,1,34450,0
+LineaB,Federico Lacroze,2,33537,0
+LineaB,Federico Lacroze,3,37094,0
+LineaB,Federico Lacroze,4,36222,0
+LineaB,Federico Lacroze,5,36323,0
+LineaB,Federico Lacroze,6,34383,0
+LineaB,Federico Lacroze,7,33463,0
+LineaB,Federico Lacroze,8,36979,0
+LineaB,Federico Lacroze,9,34261,0
+LineaB,Federico Lacroze,10,32123,0
+LineaB,Federico Lacroze,11,32914,0
+LineaB,Federico Lacroze,12,31922,1983
+LineaB,Florida,1,13916,0
+LineaB,Florida,2,12921,0
+LineaB,Florida,3,13592,0
+LineaB,Florida,4,13478,0
+LineaB,Florida,5,13382,0
+LineaB,Florida,6,12280,0
+LineaB,Florida,7,12990,0
+LineaB,Florida,8,13814,0
+LineaB,Florida,9,12845,0
+LineaB,Florida,10,11707,0
+LineaB,Florida,11,11125,0
+LineaB,Florida,12,11347,1795
+LineaB,Leandro N. Alem,1,16166,0
+LineaB,Leandro N. Alem,2,15618,0
+LineaB,Leandro N. Alem,3,16861,0
+LineaB,Leandro N. Alem,4,16864,0
+LineaB,Leandro N. Alem,5,16902,0
+LineaB,Leandro N. Alem,6,15948,0
+LineaB,Leandro N. Alem,7,17144,0
+LineaB,Leandro N. Alem,8,17048,0
+LineaB,Leandro N. Alem,9,15653,0
+LineaB,Leandro N. Alem,10,13945,0
+LineaB,Leandro N. Alem,11,13630,0
+LineaB,Leandro N. Alem,12,15843,2007
+LineaB,Los Incas,1,10774,0
+LineaB,Los Incas,2,9740,0
+LineaB,Los Incas,3,10956,0
+LineaB,Los Incas,4,10795,0
+LineaB,Los Incas,5,11086,0
+LineaB,Los Incas,6,10565,0
+LineaB,Los Incas,7,9998,0
+LineaB,Los Incas,8,11286,0
+LineaB,Los Incas,9,11048,0
+LineaB,Los Incas,10,11970,0
+LineaB,Los Incas,11,11720,0
+LineaB,Los Incas,12,12308,1949
+LineaB,Malabia,1,12839,0
+LineaB,Malabia,2,12475,0
+LineaB,Malabia,3,13269,0
+LineaB,Malabia,4,13095,0
+LineaB,Malabia,5,13370,0
+LineaB,Malabia,6,12029,0
+LineaB,Malabia,7,12474,0
+LineaB,Malabia,8,12541,0
+LineaB,Malabia,9,12703,0
+LineaB,Malabia,10,11744,0
+LineaB,Malabia,11,9889,0
+LineaB,Malabia,12,12121,1981
+LineaB,Medrano,1,11992,0
+LineaB,Medrano,2,11112,0
+LineaB,Medrano,3,11935,0
+LineaB,Medrano,4,11842,0
+LineaB,Medrano,5,11930,0
+LineaB,Medrano,6,11395,0
+LineaB,Medrano,7,10767,0
+LineaB,Medrano,8,11976,0
+LineaB,Medrano,9,11901,0
+LineaB,Medrano,10,9763,0
+LineaB,Medrano,11,9381,0
+LineaB,Medrano,12,10364,2061
+LineaB,Pasteur,1,11218,0
+LineaB,Pasteur,2,10343,0
+LineaB,Pasteur,3,11348,0
+LineaB,Pasteur,4,633,0
+LineaB,Pasteur,7,4719,0
+LineaB,Pasteur,8,11499,0
+LineaB,Pasteur,9,10197,0
+LineaB,Pasteur,10,7893,0
+LineaB,Pasteur,11,7850,0
+LineaB,Pasteur,12,9214,1911
+LineaB,Pueyrredon,1,13105,0
+LineaB,Pueyrredon,2,12176,0
+LineaB,Pueyrredon,3,13742,0
+LineaB,Pueyrredon,4,12480,0
+LineaB,Pueyrredon,5,12239,0
+LineaB,Pueyrredon,6,11784,0
+LineaB,Pueyrredon,7,12940,0
+LineaB,Pueyrredon,8,13427,0
+LineaB,Pueyrredon,9,10994,0
+LineaB,Pueyrredon,10,10721,0
+LineaB,Pueyrredon,11,11697,0
+LineaB,Pueyrredon,12,10675,0
+LineaB,Pueyrredon.B,12,1882,1882
+LineaB,Rosas,1,21921,0
+LineaB,Rosas,2,20620,0
+LineaB,Rosas,3,21864,0
+LineaB,Rosas,4,20795,0
+LineaB,Rosas,5,21279,0
+LineaB,Rosas,6,21632,0
+LineaB,Rosas,7,21293,0
+LineaB,Rosas,8,22476,0
+LineaB,Rosas,9,19422,0
+LineaB,Rosas,10,17259,0
+LineaB,Rosas,11,16928,0
+LineaB,Rosas,12,18789,2018
+LineaB,Tronador,1,6190,0
+LineaB,Tronador,2,5863,0
+LineaB,Tronador,3,6302,0
+LineaB,Tronador,4,6108,0
+LineaB,Tronador,5,6087,0
+LineaB,Tronador,6,5882,0
+LineaB,Tronador,7,5642,0
+LineaB,Tronador,8,6286,0
+LineaB,Tronador,9,5320,0
+LineaB,Tronador,10,3460,0
+LineaB,Tronador,11,3424,0
+LineaB,Tronador,12,5798,1837
+LineaB,Uruguay,1,13721,0
+LineaB,Uruguay,2,13762,0
+LineaB,Uruguay,3,14207,0
+LineaB,Uruguay,4,13692,0
+LineaB,Uruguay,5,13063,0
+LineaB,Uruguay,6,12588,0
+LineaB,Uruguay,7,12649,0
+LineaB,Uruguay,8,13339,0
+LineaB,Uruguay,9,11822,0
+LineaB,Uruguay,10,9208,0
+LineaB,Uruguay,11,9395,0
+LineaB,Uruguay,12,11686,1914
+LineaC,Avenida de Mayo,1,10359,0
+LineaC,Avenida de Mayo,2,9612,0
+LineaC,Avenida de Mayo,3,10621,0
+LineaC,Avenida de Mayo,4,10168,0
+LineaC,Avenida de Mayo,5,9837,0
+LineaC,Avenida de Mayo,6,9670,0
+LineaC,Avenida de Mayo,7,10353,0
+LineaC,Avenida de Mayo,8,10320,0
+LineaC,Avenida de Mayo,9,8696,0
+LineaC,Avenida de Mayo,10,6876,0
+LineaC,Avenida de Mayo,11,6884,0
+LineaC,Avenida de Mayo,12,8237,1510
+LineaC,Constitucion,1,45417,0
+LineaC,Constitucion,2,41266,0
+LineaC,Constitucion,3,45736,0
+LineaC,Constitucion,4,43351,0
+LineaC,Constitucion,5,41760,0
+LineaC,Constitucion,6,43535,0
+LineaC,Constitucion,7,44306,0
+LineaC,Constitucion,8,44411,0
+LineaC,Constitucion,9,43022,0
+LineaC,Constitucion,10,40782,0
+LineaC,Constitucion,11,40155,0
+LineaC,Constitucion,12,40073,1469
+LineaC,Diagonal Norte,1,8797,0
+LineaC,Diagonal Norte,2,8129,0
+LineaC,Diagonal Norte,3,9221,0
+LineaC,Diagonal Norte,4,9039,0
+LineaC,Diagonal Norte,5,8763,0
+LineaC,Diagonal Norte,6,8264,0
+LineaC,Diagonal Norte,7,8890,0
+LineaC,Diagonal Norte,8,8868,0
+LineaC,Diagonal Norte,9,7685,0
+LineaC,Diagonal Norte,10,6394,0
+LineaC,Diagonal Norte,11,6168,0
+LineaC,Diagonal Norte,12,6652,1506
+LineaC,General San Martin,1,9111,0
+LineaC,General San Martin,2,8389,0
+LineaC,General San Martin,3,9513,0
+LineaC,General San Martin,4,9346,0
+LineaC,General San Martin,5,8903,0
+LineaC,General San Martin,6,8039,0
+LineaC,General San Martin,7,8683,0
+LineaC,General San Martin,8,8938,0
+LineaC,General San Martin,9,8146,0
+LineaC,General San Martin,10,7431,0
+LineaC,General San Martin,11,7056,0
+LineaC,General San Martin,12,7339,1670
+LineaC,Independencia,1,8141,0
+LineaC,Independencia,2,7708,0
+LineaC,Independencia,3,8387,0
+LineaC,Independencia,4,8216,0
+LineaC,Independencia,5,8073,0
+LineaC,Independencia,6,7835,0
+LineaC,Independencia,7,8204,0
+LineaC,Independencia,8,8324,0
+LineaC,Independencia,9,7525,0
+LineaC,Independencia,10,7806,0
+LineaC,Independencia,11,7435,0
+LineaC,Independencia,12,6098,0
+LineaC,Independencia.C,12,1895,1895
+LineaC,Lavalle,1,9623,0
+LineaC,Lavalle,2,8677,0
+LineaC,Lavalle,3,9359,0
+LineaC,Lavalle,4,9185,0
+LineaC,Lavalle,5,9185,0
+LineaC,Lavalle,6,8436,0
+LineaC,Lavalle,7,9357,0
+LineaC,Lavalle,8,8684,0
+LineaC,Lavalle,9,8011,0
+LineaC,Lavalle,10,7698,0
+LineaC,Lavalle,11,7169,0
+LineaC,Lavalle,12,7622,1702
+LineaC,Mariano Moreno,1,10517,0
+LineaC,Mariano Moreno,2,9492,0
+LineaC,Mariano Moreno,3,10499,0
+LineaC,Mariano Moreno,4,10778,0
+LineaC,Mariano Moreno,5,10590,0
+LineaC,Mariano Moreno,6,9662,0
+LineaC,Mariano Moreno,7,10150,0
+LineaC,Mariano Moreno,8,10822,0
+LineaC,Mariano Moreno,9,9384,0
+LineaC,Mariano Moreno,10,9373,0
+LineaC,Mariano Moreno,11,8484,0
+LineaC,Mariano Moreno,12,8204,1600
+LineaC,Retiro,1,21170,0
+LineaC,Retiro,2,19500,0
+LineaC,Retiro,3,21504,0
+LineaC,Retiro,4,20686,0
+LineaC,Retiro,5,20424,0
+LineaC,Retiro,6,20068,0
+LineaC,Retiro,7,20107,0
+LineaC,Retiro,8,20505,0
+LineaC,Retiro,9,19259,0
+LineaC,Retiro,10,17811,0
+LineaC,Retiro,11,18699,0
+LineaC,Retiro,12,19357,0
+LineaC,Retiro.C,12,1987,1987
+LineaC,San Juan,1,6019,0
+LineaC,San Juan,2,5620,0
+LineaC,San Juan,3,6132,0
+LineaC,San Juan,4,6063,0
+LineaC,San Juan,5,6034,0
+LineaC,San Juan,6,5878,0
+LineaC,San Juan,7,6142,0
+LineaC,San Juan,8,6294,0
+LineaC,San Juan,9,5412,0
+LineaC,San Juan,10,5440,0
+LineaC,San Juan,11,5093,0
+LineaC,San Juan,12,5797,1886
+LineaD,9 de julio,1,1426,0
+LineaD,9 de julio,3,6041,0
+LineaD,9 de julio,4,7020,0
+LineaD,9 de julio,5,6727,0
+LineaD,9 de julio,6,6383,0
+LineaD,9 de julio,7,7211,0
+LineaD,9 de julio,8,7722,0
+LineaD,9 de julio,9,6950,0
+LineaD,9 de julio,10,6243,0
+LineaD,9 de julio,11,5663,0
+LineaD,9 de julio,12,5250,1425
+LineaD,AgÃÂ¼ero,1,1263,0
+LineaD,AgÃÂ¼ero,6,6970,0
+LineaD,AgÃÂ¼ero,7,6455,0
+LineaD,AgÃÂ¼ero,8,6636,0
+LineaD,AgÃÂ¼ero,9,7532,0
+LineaD,AgÃÂ¼ero,10,7420,0
+LineaD,AgÃÂ¼ero,11,7109,0
+LineaD,AgÃÂ¼ero,12,7853,1955
+LineaD,AgÃ¼ero,3,5752,0
+LineaD,AgÃ¼ero,4,7078,0
+LineaD,AgÃ¼ero,5,7197,0
+LineaD,Bulnes,1,2047,0
+LineaD,Bulnes,2,2,0
+LineaD,Bulnes,3,8383,0
+LineaD,Bulnes,4,10231,0
+LineaD,Bulnes,5,10156,0
+LineaD,Bulnes,6,9862,0
+LineaD,Bulnes,7,10234,0
+LineaD,Bulnes,8,10450,0
+LineaD,Bulnes,9,10300,0
+LineaD,Bulnes,10,10883,0
+LineaD,Bulnes,11,10267,0
+LineaD,Bulnes,12,10137,1926
+LineaD,Callao,1,2287,0
+LineaD,Callao,2,9,0
+LineaD,Callao,3,9686,0
+LineaD,Callao,4,12181,0
+LineaD,Callao,5,11953,0
+LineaD,Callao,6,11396,0
+LineaD,Callao,7,12045,0
+LineaD,Callao,8,12519,0
+LineaD,Callao,9,11465,0
+LineaD,Callao,10,8952,0
+LineaD,Callao,11,8198,0
+LineaD,Callao,12,6250,0
+LineaD,Callao.D,12,1216,1216
+LineaD,Catedral,1,4603,0
+LineaD,Catedral,3,19291,0
+LineaD,Catedral,4,23334,0
+LineaD,Catedral,5,24193,0
+LineaD,Catedral,6,22906,0
+LineaD,Catedral,7,23863,0
+LineaD,Catedral,8,24147,0
+LineaD,Catedral,9,21870,0
+LineaD,Catedral,10,20332,0
+LineaD,Catedral,11,20409,0
+LineaD,Catedral,12,19484,1974
+LineaD,Congreso de Tucuman,1,7515,0
+LineaD,Congreso de Tucuman,2,72,0
+LineaD,Congreso de Tucuman,3,27239,0
+LineaD,Congreso de Tucuman,4,33031,0
+LineaD,Congreso de Tucuman,5,32443,0
+LineaD,Congreso de Tucuman,6,29910,0
+LineaD,Congreso de Tucuman,7,31339,0
+LineaD,Congreso de Tucuman,8,31570,0
+LineaD,Congreso de Tucuman,9,30586,0
+LineaD,Congreso de Tucuman,10,25424,0
+LineaD,Congreso de Tucuman,11,25106,0
+LineaD,Congreso de Tucuman,12,29424,1957
+LineaD,Facultad de Medicina,1,2509,0
+LineaD,Facultad de Medicina,3,21,0
+LineaD,Facultad de Medicina,4,13814,0
+LineaD,Facultad de Medicina,5,13771,0
+LineaD,Facultad de Medicina,6,13330,0
+LineaD,Facultad de Medicina,7,13061,0
+LineaD,Facultad de Medicina,8,13760,0
+LineaD,Facultad de Medicina,9,13007,0
+LineaD,Facultad de Medicina,10,12769,0
+LineaD,Facultad de Medicina,11,12709,0
+LineaD,Facultad de Medicina,12,12671,1960
+LineaD,Jose Hernandez,1,2253,0
+LineaD,Jose Hernandez,2,15,0
+LineaD,Jose Hernandez,3,10658,0
+LineaD,Jose Hernandez,4,13238,0
+LineaD,Jose Hernandez,5,12599,0
+LineaD,Jose Hernandez,6,11229,0
+LineaD,Jose Hernandez,7,12205,0
+LineaD,Jose Hernandez,8,12299,0
+LineaD,Jose Hernandez,9,12738,0
+LineaD,Jose Hernandez,10,13120,0
+LineaD,Jose Hernandez,11,12665,0
+LineaD,Jose Hernandez,12,14292,1789
+LineaD,Juramento,1,2839,0
+LineaD,Juramento,2,15,0
+LineaD,Juramento,3,11504,0
+LineaD,Juramento,4,13824,0
+LineaD,Juramento,5,13278,0
+LineaD,Juramento,6,12665,0
+LineaD,Juramento,7,14164,0
+LineaD,Juramento,8,14423,0
+LineaD,Juramento,9,12963,0
+LineaD,Juramento,10,12501,0
+LineaD,Juramento,11,11828,0
+LineaD,Juramento,12,11778,1958
+LineaD,Ministro Carranza,1,2446,0
+LineaD,Ministro Carranza,2,408,0
+LineaD,Ministro Carranza,3,8666,0
+LineaD,Ministro Carranza,4,10176,0
+LineaD,Ministro Carranza,5,9955,0
+LineaD,Ministro Carranza,6,8232,0
+LineaD,Ministro Carranza,7,8760,0
+LineaD,Ministro Carranza,8,10165,0
+LineaD,Ministro Carranza,9,10420,0
+LineaD,Ministro Carranza,10,11122,0
+LineaD,Ministro Carranza,11,10708,0
+LineaD,Ministro Carranza,12,11536,1947
+LineaD,Olleros,1,2421,0
+LineaD,Olleros,2,9,0
+LineaD,Olleros,3,9645,0
+LineaD,Olleros,4,12348,0
+LineaD,Olleros,5,11992,0
+LineaD,Olleros,6,11195,0
+LineaD,Olleros,7,11648,0
+LineaD,Olleros,8,12271,0
+LineaD,Olleros,9,12373,0
+LineaD,Olleros,10,12667,0
+LineaD,Olleros,11,12358,0
+LineaD,Olleros,12,13666,1921
+LineaD,Palermo,1,2113,0
+LineaD,Palermo,2,5,0
+LineaD,Palermo,3,8359,0
+LineaD,Palermo,4,9951,0
+LineaD,Palermo,5,9695,0
+LineaD,Palermo,6,9917,0
+LineaD,Palermo,7,10377,0
+LineaD,Palermo,8,10327,0
+LineaD,Palermo,9,9850,0
+LineaD,Palermo,10,11049,0
+LineaD,Palermo,11,10733,0
+LineaD,Palermo,12,2992,481
+LineaD,Plaza Italia,1,2132,0
+LineaD,Plaza Italia,2,7,0
+LineaD,Plaza Italia,3,8585,0
+LineaD,Plaza Italia,4,10215,0
+LineaD,Plaza Italia,5,10276,0
+LineaD,Plaza Italia,6,9954,0
+LineaD,Plaza Italia,7,10413,0
+LineaD,Plaza Italia,8,10650,0
+LineaD,Plaza Italia,9,9572,0
+LineaD,Plaza Italia,10,7857,0
+LineaD,Plaza Italia,11,8261,0
+LineaD,Plaza Italia,12,8505,2023
+LineaD,Pueyrredon.D,1,2103,0
+LineaD,Pueyrredon.D,2,28,0
+LineaD,Pueyrredon.D,3,7931,0
+LineaD,Pueyrredon.D,4,10226,0
+LineaD,Pueyrredon.D,5,10279,0
+LineaD,Pueyrredon.D,6,8027,0
+LineaD,Pueyrredon.D,7,10101,0
+LineaD,Pueyrredon.D,8,9033,0
+LineaD,Pueyrredon.D,9,8563,0
+LineaD,Pueyrredon.D,10,8694,0
+LineaD,Pueyrredon.D,11,8734,0
+LineaD,Pueyrredon.D,12,8245,1869
+LineaD,Scalabrini Ortiz,1,1841,0
+LineaD,Scalabrini Ortiz,2,15,0
+LineaD,Scalabrini Ortiz,3,7248,0
+LineaD,Scalabrini Ortiz,4,10138,0
+LineaD,Scalabrini Ortiz,5,9969,0
+LineaD,Scalabrini Ortiz,6,9777,0
+LineaD,Scalabrini Ortiz,7,10305,0
+LineaD,Scalabrini Ortiz,8,10349,0
+LineaD,Scalabrini Ortiz,9,8710,0
+LineaD,Scalabrini Ortiz,10,4259,0
+LineaD,Tribunales,1,2074,0
+LineaD,Tribunales,3,8026,0
+LineaD,Tribunales,4,10796,0
+LineaD,Tribunales,5,10868,0
+LineaD,Tribunales,6,10220,0
+LineaD,Tribunales,7,11509,0
+LineaD,Tribunales,8,11769,0
+LineaD,Tribunales,9,10321,0
+LineaD,Tribunales,10,9295,0
+LineaD,Tribunales,11,9546,0
+LineaD,Tribunales,12,10840,1896
+LineaE,Avenida La Plata,1,6208,0
+LineaE,Avenida La Plata,2,5800,0
+LineaE,Avenida La Plata,3,6248,0
+LineaE,Avenida La Plata,4,6082,0
+LineaE,Avenida La Plata,5,6048,0
+LineaE,Avenida La Plata,6,5866,0
+LineaE,Avenida La Plata,7,6150,0
+LineaE,Avenida La Plata,8,6235,0
+LineaE,Avenida La Plata,9,5525,0
+LineaE,Avenida La Plata,10,5579,0
+LineaE,Avenida La Plata,11,5291,0
+LineaE,Avenida La Plata,12,6018,1955
+LineaE,Boedo,1,6263,0
+LineaE,Boedo,2,5872,0
+LineaE,Boedo,3,6360,0
+LineaE,Boedo,4,5972,0
+LineaE,Boedo,5,5894,0
+LineaE,Boedo,6,5877,0
+LineaE,Boedo,7,6173,0
+LineaE,Boedo,8,6319,0
+LineaE,Boedo,9,4702,0
+LineaE,Boedo,10,5327,0
+LineaE,Boedo,11,5308,0
+LineaE,Boedo,12,6065,1923
+LineaE,Bolivar,1,13240,0
+LineaE,Bolivar,2,12064,0
+LineaE,Bolivar,3,12478,0
+LineaE,Bolivar,4,12078,0
+LineaE,Bolivar,5,11558,0
+LineaE,Bolivar,6,11679,0
+LineaE,Bolivar,7,13151,0
+LineaE,Bolivar,8,13709,0
+LineaE,Bolivar,9,12780,0
+LineaE,Bolivar,10,12307,0
+LineaE,Bolivar,11,11648,0
+LineaE,Bolivar,12,11478,1884
+LineaE,Catalinas,1,10651,0
+LineaE,Catalinas,2,10160,0
+LineaE,Catalinas,3,10979,0
+LineaE,Catalinas,4,11535,0
+LineaE,Catalinas,5,11011,0
+LineaE,Catalinas,6,9668,0
+LineaE,Catalinas,7,10167,0
+LineaE,Catalinas,8,11114,0
+LineaE,Catalinas,9,11694,0
+LineaE,Catalinas,10,11310,0
+LineaE,Catalinas,11,11375,0
+LineaE,Catalinas,12,11699,1519
+LineaE,Correo Central,1,17155,0
+LineaE,Correo Central,2,15722,0
+LineaE,Correo Central,3,17186,0
+LineaE,Correo Central,4,17101,0
+LineaE,Correo Central,5,15815,0
+LineaE,Correo Central,6,14645,0
+LineaE,Correo Central,7,14778,0
+LineaE,Correo Central,8,15994,0
+LineaE,Correo Central,9,14574,0
+LineaE,Correo Central,10,12727,0
+LineaE,Correo Central,11,13189,0
+LineaE,Correo Central,12,13695,1771
+LineaE,Emilio Mitre,1,4178,0
+LineaE,Emilio Mitre,2,3878,0
+LineaE,Emilio Mitre,3,4171,0
+LineaE,Emilio Mitre,4,4013,0
+LineaE,Emilio Mitre,5,4050,0
+LineaE,Emilio Mitre,6,3821,0
+LineaE,Emilio Mitre,7,4145,0
+LineaE,Emilio Mitre,8,4176,0
+LineaE,Emilio Mitre,9,4005,0
+LineaE,Emilio Mitre,10,3691,0
+LineaE,Emilio Mitre,11,3247,0
+LineaE,Emilio Mitre,12,3737,1676
+LineaE,Entre Rios,1,6127,0
+LineaE,Entre Rios,2,5928,0
+LineaE,Entre Rios,3,6357,0
+LineaE,Entre Rios,4,6237,0
+LineaE,Entre Rios,5,6104,0
+LineaE,Entre Rios,6,5982,0
+LineaE,Entre Rios,7,6324,0
+LineaE,Entre Rios,8,6324,0
+LineaE,Entre Rios,9,5861,0
+LineaE,Entre Rios,10,5542,0
+LineaE,Entre Rios,11,5132,0
+LineaE,Entre Rios,12,5933,1816
+LineaE,General Belgrano,1,4139,0
+LineaE,General Belgrano,2,3914,0
+LineaE,General Belgrano,3,4179,0
+LineaE,General Belgrano,4,4068,0
+LineaE,General Belgrano,5,3992,0
+LineaE,General Belgrano,6,3975,0
+LineaE,General Belgrano,7,4108,0
+LineaE,General Belgrano,8,4089,0
+LineaE,General Belgrano,9,3911,0
+LineaE,General Belgrano,10,3477,0
+LineaE,General Belgrano,11,3086,0
+LineaE,General Belgrano,12,3611,1069
+LineaE,Independencia.E,12,1880,1880
+LineaE,Independencia.H,1,6873,0
+LineaE,Independencia.H,2,7270,0
+LineaE,Independencia.H,3,8098,0
+LineaE,Independencia.H,4,8018,0
+LineaE,Independencia.H,5,7971,0
+LineaE,Independencia.H,6,7541,0
+LineaE,Independencia.H,7,7985,0
+LineaE,Independencia.H,8,8109,0
+LineaE,Independencia.H,9,7258,0
+LineaE,Independencia.H,10,7282,0
+LineaE,Independencia.H,11,6908,0
+LineaE,Independencia.H,12,5523,0
+LineaE,Jose Maria Moreno,1,4207,0
+LineaE,Jose Maria Moreno,2,3953,0
+LineaE,Jose Maria Moreno,3,4181,0
+LineaE,Jose Maria Moreno,4,4111,0
+LineaE,Jose Maria Moreno,5,4101,0
+LineaE,Jose Maria Moreno,6,4030,0
+LineaE,Jose Maria Moreno,7,3884,0
+LineaE,Jose Maria Moreno,8,4259,0
+LineaE,Jose Maria Moreno,9,3899,0
+LineaE,Jose Maria Moreno,10,3563,0
+LineaE,Jose Maria Moreno,11,3216,0
+LineaE,Jose Maria Moreno,12,3267,1177
+LineaE,Jujuy,1,5341,0
+LineaE,Jujuy,2,5122,0
+LineaE,Jujuy,3,5312,0
+LineaE,Jujuy,4,5335,0
+LineaE,Jujuy,5,5091,0
+LineaE,Jujuy,6,4958,0
+LineaE,Jujuy,7,4438,0
+LineaE,Jujuy,8,5607,0
+LineaE,Jujuy,9,5285,0
+LineaE,Jujuy,10,5120,0
+LineaE,Jujuy,11,4831,0
+LineaE,Jujuy,12,5882,1871
+LineaE,Medalla Milagrosa,1,5126,0
+LineaE,Medalla Milagrosa,2,4709,0
+LineaE,Medalla Milagrosa,3,5092,0
+LineaE,Medalla Milagrosa,4,5072,0
+LineaE,Medalla Milagrosa,5,4941,0
+LineaE,Medalla Milagrosa,6,4612,0
+LineaE,Medalla Milagrosa,7,4708,0
+LineaE,Medalla Milagrosa,8,5191,0
+LineaE,Medalla Milagrosa,9,4581,0
+LineaE,Medalla Milagrosa,10,3907,0
+LineaE,Medalla Milagrosa,11,3594,0
+LineaE,Medalla Milagrosa,12,5204,1642
+LineaE,Pichincha,1,4904,0
+LineaE,Pichincha,2,4722,0
+LineaE,Pichincha,3,5095,0
+LineaE,Pichincha,4,5063,0
+LineaE,Pichincha,5,5024,0
+LineaE,Pichincha,6,4056,0
+LineaE,Pichincha,7,4089,0
+LineaE,Pichincha,8,5183,0
+LineaE,Pichincha,9,5219,0
+LineaE,Pichincha,10,5256,0
+LineaE,Pichincha,11,5006,0
+LineaE,Pichincha,12,5707,1689
+LineaE,Pza. de los Virreyes,1,12394,0
+LineaE,Pza. de los Virreyes,2,11799,0
+LineaE,Pza. de los Virreyes,3,11975,0
+LineaE,Pza. de los Virreyes,4,12196,0
+LineaE,Pza. de los Virreyes,5,12358,0
+LineaE,Pza. de los Virreyes,6,11915,0
+LineaE,Pza. de los Virreyes,7,8669,0
+LineaE,Pza. de los Virreyes,8,12108,0
+LineaE,Pza. de los Virreyes,9,10616,0
+LineaE,Pza. de los Virreyes,10,8492,0
+LineaE,Pza. de los Virreyes,11,7636,0
+LineaE,Pza. de los Virreyes,12,7685,1882
+LineaE,Retiro E,1,17176,0
+LineaE,Retiro E,2,16511,0
+LineaE,Retiro E,3,17473,0
+LineaE,Retiro E,4,17420,0
+LineaE,Retiro E,5,16758,0
+LineaE,Retiro E,6,15296,0
+LineaE,Retiro E,7,16204,0
+LineaE,Retiro E,8,16626,0
+LineaE,Retiro E,9,15497,0
+LineaE,Retiro E,10,14170,0
+LineaE,Retiro E,11,14115,0
+LineaE,Retiro E,12,12680,0
+LineaE,Retiro.E,12,1721,1721
+LineaE,San Jose,1,4183,0
+LineaE,San Jose,2,3926,0
+LineaE,San Jose,3,4233,0
+LineaE,San Jose,4,4131,0
+LineaE,San Jose,5,4125,0
+LineaE,San Jose,6,3976,0
+LineaE,San Jose,7,4188,0
+LineaE,San Jose,8,4261,0
+LineaE,San Jose,9,3613,0
+LineaE,San Jose,10,3462,0
+LineaE,San Jose,11,3160,0
+LineaE,San Jose,12,3182,1072
+LineaE,Urquiza,1,5120,0
+LineaE,Urquiza,2,4749,0
+LineaE,Urquiza,3,5328,0
+LineaE,Urquiza,4,5486,0
+LineaE,Urquiza,5,5103,0
+LineaE,Urquiza,6,4929,0
+LineaE,Urquiza,7,4103,0
+LineaE,Urquiza,8,4532,0
+LineaE,Urquiza,9,4347,0
+LineaE,Urquiza,10,4295,0
+LineaE,Urquiza,11,4297,0
+LineaE,Urquiza,12,5822,1811
+LineaE,Varela,1,3992,0
+LineaE,Varela,2,3797,0
+LineaE,Varela,3,4092,0
+LineaE,Varela,4,3970,0
+LineaE,Varela,5,3957,0
+LineaE,Varela,6,3843,0
+LineaE,Varela,7,4047,0
+LineaE,Varela,8,4091,0
+LineaE,Varela,9,3819,0
+LineaE,Varela,10,1944,0
+LineaE,Varela,11,1923,0
+LineaE,Varela,12,3025,970
+LineaH,Caseros,1,8237,0
+LineaH,Caseros,2,7659,0
+LineaH,Caseros,3,8443,0
+LineaH,Caseros,4,8010,0
+LineaH,Caseros,5,7992,0
+LineaH,Caseros,6,7851,0
+LineaH,Caseros,7,8252,0
+LineaH,Caseros,8,8216,0
+LineaH,Caseros,9,8056,0
+LineaH,Caseros,10,5485,0
+LineaH,Caseros,11,5190,0
+LineaH,Caseros,12,6744,1871
+LineaH,Cordoba,1,6208,0
+LineaH,Cordoba,2,5326,0
+LineaH,Cordoba,3,6445,0
+LineaH,Cordoba,4,6272,0
+LineaH,Cordoba,5,6150,0
+LineaH,Cordoba,6,5929,0
+LineaH,Cordoba,7,6198,0
+LineaH,Cordoba,8,6467,0
+LineaH,Cordoba,9,5521,0
+LineaH,Cordoba,10,5472,0
+LineaH,Cordoba,11,5448,0
+LineaH,Cordoba,12,5939,1827
+LineaH,Corrientes,1,9214,0
+LineaH,Corrientes,2,8816,0
+LineaH,Corrientes,3,9855,0
+LineaH,Corrientes,4,9200,0
+LineaH,Corrientes,5,8462,0
+LineaH,Corrientes,6,8071,0
+LineaH,Corrientes,7,8381,0
+LineaH,Corrientes,8,9746,0
+LineaH,Corrientes,9,9216,0
+LineaH,Corrientes,10,8666,0
+LineaH,Corrientes,11,9238,0
+LineaH,Corrientes,12,10808,1772
+LineaH,Facultad de Derecho,1,10600,0
+LineaH,Facultad de Derecho,2,9373,0
+LineaH,Facultad de Derecho,3,11824,0
+LineaH,Facultad de Derecho,4,12285,0
+LineaH,Facultad de Derecho,5,12340,0
+LineaH,Facultad de Derecho,6,11175,0
+LineaH,Facultad de Derecho,7,10056,0
+LineaH,Facultad de Derecho,8,11989,0
+LineaH,Facultad de Derecho,9,12063,0
+LineaH,Facultad de Derecho,10,8766,0
+LineaH,Facultad de Derecho,11,9359,0
+LineaH,Facultad de Derecho,12,9538,1688
+LineaH,Hospitales,1,11959,0
+LineaH,Hospitales,2,11238,0
+LineaH,Hospitales,3,12217,0
+LineaH,Hospitales,4,11742,0
+LineaH,Hospitales,5,11735,0
+LineaH,Hospitales,6,11473,0
+LineaH,Hospitales,7,11310,0
+LineaH,Hospitales,8,12340,0
+LineaH,Hospitales,9,9976,0
+LineaH,Hospitales,10,8845,0
+LineaH,Hospitales,11,8741,0
+LineaH,Hospitales,12,10798,1891
+LineaH,Humberto I,1,6979,0
+LineaH,Humberto I,2,6409,0
+LineaH,Humberto I,3,6754,0
+LineaH,Humberto I,4,6816,0
+LineaH,Humberto I,5,4776,0
+LineaH,Humberto I,6,5940,0
+LineaH,Humberto I,7,6975,0
+LineaH,Humberto I,8,7126,0
+LineaH,Humberto I,9,6566,0
+LineaH,Humberto I,10,5320,0
+LineaH,Humberto I,11,4703,0
+LineaH,Humberto I,12,4580,1248
+LineaH,Inclan,1,6759,0
+LineaH,Inclan,2,6269,0
+LineaH,Inclan,3,6699,0
+LineaH,Inclan,4,6331,0
+LineaH,Inclan,5,6522,0
+LineaH,Inclan,6,6011,0
+LineaH,Inclan,7,6948,0
+LineaH,Inclan,8,7014,0
+LineaH,Inclan,9,6654,0
+LineaH,Inclan,10,5840,0
+LineaH,Inclan,11,5666,0
+LineaH,Inclan,12,5294,1262
+LineaH,Las Heras,1,8381,0
+LineaH,Las Heras,2,7419,0
+LineaH,Las Heras,3,8207,0
+LineaH,Las Heras,4,7906,0
+LineaH,Las Heras,5,7441,0
+LineaH,Las Heras,6,7665,0
+LineaH,Las Heras,7,8246,0
+LineaH,Las Heras,8,7705,0
+LineaH,Las Heras,9,6005,0
+LineaH,Las Heras,10,5758,0
+LineaH,Las Heras,11,5861,0
+LineaH,Las Heras,12,7858,1986
+LineaH,Once,1,14168,0
+LineaH,Once,2,13476,0
+LineaH,Once,3,15332,0
+LineaH,Once,4,14650,0
+LineaH,Once,5,14715,0
+LineaH,Once,6,14043,0
+LineaH,Once,7,13945,0
+LineaH,Once,8,15344,0
+LineaH,Once,9,15039,0
+LineaH,Once,10,13629,0
+LineaH,Once,11,14512,0
+LineaH,Once,12,15255,1875
+LineaH,Patricios,1,8794,0
+LineaH,Patricios,2,9220,0
+LineaH,Patricios,3,10503,0
+LineaH,Patricios,4,9951,0
+LineaH,Patricios,5,8550,0
+LineaH,Patricios,6,8969,0
+LineaH,Patricios,7,8083,0
+LineaH,Patricios,8,8015,0
+LineaH,Patricios,9,7881,0
+LineaH,Patricios,10,7633,0
+LineaH,Patricios,11,7918,0
+LineaH,Patricios,12,9530,1903
+LineaH,Santa Fe,1,12613,0
+LineaH,Santa Fe,2,12950,0
+LineaH,Santa Fe,3,13091,0
+LineaH,Santa Fe,4,13187,0
+LineaH,Santa Fe,5,13215,0
+LineaH,Santa Fe,6,12616,0
+LineaH,Santa Fe,7,10622,0
+LineaH,Santa Fe,8,13427,0
+LineaH,Santa Fe,9,12922,0
+LineaH,Santa Fe,10,11099,0
+LineaH,Santa Fe,11,14088,0
+LineaH,Santa Fe,12,13775,2023
+LineaH,Venezuela,1,7727,0
+LineaH,Venezuela,2,7637,0
+LineaH,Venezuela,3,8320,0
+LineaH,Venezuela,4,8129,0
+LineaH,Venezuela,5,7966,0
+LineaH,Venezuela,6,7687,0
+LineaH,Venezuela,7,7968,0
+LineaH,Venezuela,8,8184,0
+LineaH,Venezuela,9,7852,0
+LineaH,Venezuela,10,5492,0
+LineaH,Venezuela,11,5244,0
+LineaH,Venezuela,12,7046,1814
